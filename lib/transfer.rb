@@ -9,6 +9,6 @@ class Transfer
   end
 
   def valid?
-    
+
   # your code here
 end
